@@ -1,5 +1,5 @@
 
-# TrekkingTime Pro
+# TrekkingTime
 
 Production-grade client-side GPX route analytics for hiking, trekking, and trail planning.
 
@@ -7,7 +7,7 @@ Production-grade client-side GPX route analytics for hiking, trekking, and trail
 
 ### What this app does
 
-TrekkingTime Pro ingests a GPX track, computes terrain-aware route statistics, estimates moving time using multiple classic and scientific hiking models, and renders a synchronized map/profile planning dashboard.
+TrekkingTime ingests a GPX track, computes terrain-aware route statistics, estimates moving time using multiple classic and scientific hiking models, and renders a synchronized map/profile planning dashboard.
 
 The application is intended for:
 
@@ -17,7 +17,7 @@ The application is intended for:
 
 ### Problem it solves
 
-Manual GPX inspection often underestimates terrain impact and ignores uncertainty between pacing models. TrekkingTime Pro solves this by:
+Manual GPX inspection often underestimates terrain impact and ignores uncertainty between pacing models. TrekkingTime solves this by:
 
 1. Parsing track geometry and elevation directly from GPX.
 2. Running five independent time-estimation methods.

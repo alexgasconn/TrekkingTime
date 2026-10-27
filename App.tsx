@@ -255,7 +255,7 @@ const App: React.FC = () => {
               <Clock size={20} />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-slate-800 leading-tight">TrekkingTime Pro</h1>
+              <h1 className="text-lg font-bold text-slate-800 leading-tight">TrekkingTime</h1>
               <p className="text-[10px] text-slate-500 font-medium tracking-wide">GPX Route Analyzer</p>
             </div>
           </div>
@@ -731,7 +731,7 @@ const App: React.FC = () => {
             Always carry a physical map, compass, and appropriate gear.
           </p>
           <div className="flex justify-center items-center space-x-4 text-xs font-medium text-slate-500">
-            <span>TrekkingTime Pro v1.5</span>
+            <span>TrekkingTime v1.5</span>
             <span>•</span>
             <span>Local Processing (Privacy Focused)</span>
           </div>

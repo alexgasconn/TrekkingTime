@@ -1,4 +1,4 @@
-# TrekkingTime Pro - Technical Guide
+# TrekkingTime - Technical Guide
 
 Version: 1.0  
 Date: 2026-04-26  
@@ -6,7 +6,7 @@ Scope: Internal engineering reference for architecture, algorithms, operations, 
 
 ## 1. System Summary
 
-TrekkingTime Pro is a browser-only geospatial analytics application that transforms GPX tracks into planning intelligence for hiking and trail movement:
+TrekkingTime is a browser-only geospatial analytics application that transforms GPX tracks into planning intelligence for hiking and trail movement:
 
 1. Deterministic route metrics from GPS/elevation streams.
 2. Multi-model ETA estimation with robust aggregation.
